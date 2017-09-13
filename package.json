@@ -1,0 +1,21 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.1",
+  "description": "React manual boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/kru/react-boilerplate",
+  "author": "Kris",
+  "license": "MIT",
+  "script": {
+    "start": "node_modules/.bin/webpack",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.5.6"
+  }
+}
